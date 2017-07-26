@@ -19,11 +19,9 @@ namespace Growing_Tree_Algorithm
 
         }
 
-
         static void Main(string[] args)
         {
-
-
+            //Get Dimensions from user
             Console.Write("Enter width:");
             int width = Convert.ToInt32(Console.ReadLine());
 
